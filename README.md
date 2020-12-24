@@ -1,7 +1,7 @@
 # Replica of Diablo
 1. Make starting window.
 
-  1.1. Make character
+  1.1. Make character!
     1.1.1 Add Image of char
     1.1.2 Add moving keys
     1.1.3 Moving motion
